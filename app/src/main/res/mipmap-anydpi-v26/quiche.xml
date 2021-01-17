@@ -3,3 +3,4 @@
     <background android:drawable="@drawable/quiche_background"/>
     <foreground android:drawable="@mipmap/quiche_foreground"/>
 </adaptive-icon>
+
